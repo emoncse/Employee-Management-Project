@@ -24,7 +24,7 @@ import javafx.stage.Stage;
 /**
  * FXML Controller class
  *
- * @author User
+ * @author Imran
  */
 public class ComissionEmployeeController implements Initializable {
 
